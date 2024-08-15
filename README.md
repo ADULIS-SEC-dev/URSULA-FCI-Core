@@ -1,2 +1,10 @@
-# URSULA-FCI-Core
-Snippets from our URSULA® Financial Computational Intelligence's Core source code.
+# URSULA® FCI Core
+* Snippets from our URSULA® Financial Computational Intelligence's Core source code.
+
+---
+## Introduction to URSULA®
+* ...
+
+---
+## ...
+* ...
